@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "gasdfgr.aternos.me:64624",
+    "port": 64624,
     "version": "1.21.1"
   },
   "position": {
